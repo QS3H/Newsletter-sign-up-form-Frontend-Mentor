@@ -86,11 +86,11 @@ body {
 .newsletter-container .newsletter-content {
   padding: var(--spacing-md);
   display: grid;
-  gap: var(--spacing-md);
+  gap: var(--spacing-sm);
 }
 
 .newsletter-content h1 {
-  font-size: 2.5rem;
+  font-size: 4rem;
   font-weight: var(--fw-bold);
   color: var(--clr-blue-800);
 }
